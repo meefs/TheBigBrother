@@ -159,7 +159,8 @@ python -m uvicorn the_big_brother.gui.main:app --port 8000
 
 ## 📸 Screenshots
 
-> PLACEHOLDER_FOR_DASHBOARD_SCREENSHOT_HERE
+> <img width="1673" height="872" alt="Screenshot 2026-02-05 at 04 37 07" src="https://github.com/user-attachments/assets/8dcf441f-4b98-4157-988c-40ebdb426d37" />
+
 
 ---
 
