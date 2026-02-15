@@ -177,6 +177,12 @@ Custom enterprise version available with:
 
 *Contact for custom solutions*  
 Telegram: Hisoka0morow
+<p align="left">
+  <a href="https://ko-fi.com/chadi0x/shop">
+    <img src="https://img.shields.io/badge/Private%20Tools-Visit%20Shop-black?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
@@ -193,6 +199,11 @@ This tool is for **educational and authorized security testing purposes only**. 
 - **GitHub**: [@chadi0x](https://github.com/chadi0x)
 - **Issues**: [Report Bugs](https://github.com/chadi0x/the-big-brother/issues)
 - **Custom Solutions**: Contact for enterprise licensing
+<p align="left">
+  <a href="https://ko-fi.com/chadi0x/shop">
+    <img src="https://img.shields.io/badge/Private%20Tools-Visit%20Shop-black?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
 
 ---
 
